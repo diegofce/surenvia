@@ -1,6 +1,6 @@
-# Sur Envios
+# Sur Envía
 
-Landing page de Sur Envios, una web promocional para servicios de mensajeria, domicilios, radicacion de documentos y entregas para empresas y comercios.
+Landing page de Sur Envía, una web promocional para servicios de mensajería, domicilios, radicación de documentos y entregas para empresas y comercios.
 
 ## Tecnologias
 
